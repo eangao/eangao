@@ -1,16 +1,12 @@
-<div align="center">
-
 # 👋 Hi, I'm Elmar Angao
 
-### Full Stack Developer | AI Integration Specialist | Next.js 
+### Full Stack Developer | AI Integration Specialist | Next.js
 
 Building production-ready AI-powered applications with modern web technologies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmar-angao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmarcera@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-document-analyzer-ea.vercel.app)
-
-</div>
 
 ---
 
@@ -54,57 +50,61 @@ Upload any PDF and get instant AI-powered structured analysis — summaries, key
 
 **Previous:** Hospital HRIS System
 *Production deployment: React + Node.js + MongoDB + Cloud Hosting*
+
 - Employee dashboards with biometric attendance integration
 - Multi-level approval workflows with role-based access control
-- Deployed on Render, and Vercel
+- Deployed on Render and Vercel
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
 ### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=flat-square&logo=next.js&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/docs/api-routes/introduction)
 
 ### AI & Machine Learning
-![Claude API](https://img.shields.io/badge/Claude_API-6B46C1?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+[![Claude API](https://img.shields.io/badge/Claude_API-6B46C1?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### DevOps & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Testing & Quality
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)](https://testing-library.com/)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eangao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Elmar's GitHub Stats" />
+</p>
 
-![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eangao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eangao&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eangao&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eangao&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eangao&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -131,7 +131,7 @@ const elmarAngao = {
     ai: ["Claude API", "OpenAI API", "RAG Systems", "Prompt Engineering"],
     architecture: ["App Router", "Server Components", "API Design", "Rate Limiting"],
     testing: ["Vitest", "React Testing Library", "TDD", "93.6% Coverage"],
-    deployment: ["Vercel", "Render", "Railway", "CI/CD"]
+    deployment: ["Vercel", "Render", "AWS", "CI/CD"]
   },
 
   currentFocus: [
@@ -150,12 +150,14 @@ const elmarAngao = {
 ## 🌟 Project Highlights
 
 ### AI Document Analyzer
+
 **Status:** ✅ Live in Production
 **URL:** https://ai-document-analyzer-ea.vercel.app
 **Impact:** 667 tests, 93.6% coverage, $0.45/month API costs
 **Tech:** Next.js 16, TypeScript, Claude API, Tailwind, Vercel
 
 ### Hospital HRIS System
+
 **Status:** ✅ Production
 **Features:** Employee dashboards, biometric attendance, approval workflows
 **Tech:** React, Node.js, Express, MongoDB, Cloud hosting
@@ -165,27 +167,31 @@ const elmarAngao = {
 ## 📫 Let's Connect
 
 I'm available for:
+
 - 🤝 **Freelance Projects** — AI integration, Next.js development
 - 💼 **Consulting** — Document processing systems, workflow automation
 - 🎓 **Mentoring** — Full-stack development, AI APIs, testing best practices
 
 **Contact:**
+
 - 📧 Email: [elmarcera@gmail.com](mailto:elmarcera@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/elmar-angao](https://linkedin.com/in/elmar-angao)
 - 🌐 Live Demo: [ai-document-analyzer-ea.vercel.app](https://ai-document-analyzer-ea.vercel.app)
 
 ---
 
-<div align="center">
-
-### ⭐ Featured Repository
-
-[![AI Document Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=eangao&repo=ai-document-analyzer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/eangao/ai-document-analyzer)
+<p align="center">
+  <a href="https://github.com/eangao/ai-document-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eangao&repo=ai-document-analyzer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="AI Document Analyzer" />
+  </a>
+</p>
 
 ---
 
-**💙 Thanks for visiting! If you find my work interesting, feel free to ⭐ star my repositories!**
+<p align="center">
+  <b>💙 Thanks for visiting! If you find my work interesting, feel free to ⭐ star my repositories!</b>
+</p>
 
-*Last updated: March 2026*
-
-</div>
+<p align="center">
+  <i>Last updated: March 2026</i>
+</p>
