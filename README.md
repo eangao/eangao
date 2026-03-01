@@ -1,48 +1,191 @@
-Hi, I'm Elmar Angao 👋
-Full Stack Developer building AI-powered web applications and document processing systems.
-Currently developing AI-assisted workflows at a US-based legal tech company. Previously built a complete HRIS system deployed across AWS, Vercel, Render, and MongoDB Atlas.
+<div align="center">
 
-What I Build
-🔹 AI-powered document processing — extract structured data from PDFs using Claude & OpenAI APIs
-🔹 Full-stack web applications — Next.js, React, TypeScript, Node.js, production-deployed
-🔹 Enterprise workflow systems — role-based dashboards, approval pipelines, biometric integrations
+# 👋 Hi, I'm Elmar Angao
 
-Featured Projects
-ProjectDescriptionStackAI Document AnalyzerUpload any PDF → get instant AI-powered structured analysis: entities, dates, financials, risk flags, obligationsNext.js 16 · TypeScript · Claude API · Tailwind CSS · VercelHospital HRIS SystemProduction HRIS with 5 role-based dashboards, biometric attendance, multi-level approval workflows, scheduling & DTR generationReact · Node.js · Express · MongoDB · AWS · Vercel · Render
+### Full Stack Developer | AI Integration Specialist | Next.js 
 
-Tech Stack
-Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Backend
-Show Image
-Show Image
-Show Image
-AI & APIs
-Show Image
-Show Image
-Databases
-Show Image
-Show Image
-Cloud & DevOps
-Show Image
-Show Image
-Show Image
-Tools
-Show Image
-Show Image
+Building production-ready AI-powered applications with modern web technologies
 
-GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eangao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eangao&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmar-angao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmarcera@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-document-analyzer-ea.vercel.app)
 
-Let's Connect
-Show Image
-Show Image
-Show Image
+</div>
 
-Open to freelance projects — especially AI integration, document processing, and full-stack Next.js development.
+---
+
+## 🚀 Featured Project
+
+### [AI Document Analyzer](https://ai-document-analyzer-ea.vercel.app) 📄🤖
+
+**Live Demo:** https://ai-document-analyzer-ea.vercel.app
+
+Upload any PDF and get instant AI-powered structured analysis — summaries, key entities, dates, obligations, risk flags, and action items.
+
+**Tech Stack:**
+- Next.js 16 (App Router + Turbopack)
+- TypeScript (strict mode)
+- Claude Sonnet 4.5 API
+- Tailwind CSS + shadcn/ui
+- Vercel (Production)
+
+**Key Features:**
+- ⚡ Real-time PDF processing with unpdf
+- 🤖 AI-powered document analysis (Claude API)
+- 🎨 Responsive dashboard with color-coded insights
+- 🔒 Dual-layer rate limiting (cost protection)
+- 🧪 667 tests with 93.6% coverage
+- 📊 Export JSON results
+- 📱 Mobile-first responsive design
+
+**Impact:**
+- Production-ready with ~$0.45/month API costs (demo mode)
+- 96% cost reduction through intelligent rate limiting
+- WCAG 2.1 Level A/AA accessibility compliance
+
+🔗 **[View Live Demo](https://ai-document-analyzer-ea.vercel.app)** | **[Source Code](https://github.com/eangao/ai-document-analyzer)**
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer** @ US-based Legal Tech Company
+*Building AI-powered document processing and workflow automation systems*
+
+**Previous:** Hospital HRIS System
+*Production deployment: React + Node.js + MongoDB + Cloud Hosting*
+- Employee dashboards with biometric attendance integration
+- Multi-level approval workflows with role-based access control
+- Deployed on Render, and Vercel
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### AI & Machine Learning
+![Claude API](https://img.shields.io/badge/Claude_API-6B46C1?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Testing & Quality
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eangao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eangao&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eangao&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- 🤖 Building AI-powered document processing systems with Claude and OpenAI APIs
+- 🚀 Developing enterprise workflow automation tools
+- 📚 Mastering Next.js 16 App Router and React Server Components
+- 🧪 Implementing comprehensive TDD workflows (80%+ coverage)
+- 🔒 Building cost-effective, production-ready AI applications with smart rate limiting
+
+---
+
+## 💡 Core Competencies
+
+```typescript
+const elmarAngao = {
+  role: "Full Stack Developer",
+  specialization: "AI Integration & Document Processing",
+
+  expertise: {
+    frontend: ["Next.js 16", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+    backend: ["Node.js", "Express", "Next.js API Routes"],
+    ai: ["Claude API", "OpenAI API", "RAG Systems", "Prompt Engineering"],
+    architecture: ["App Router", "Server Components", "API Design", "Rate Limiting"],
+    testing: ["Vitest", "React Testing Library", "TDD", "93.6% Coverage"],
+    deployment: ["Vercel", "Render", "Railway", "CI/CD"]
+  },
+
+  currentFocus: [
+    "Building production-ready AI applications",
+    "Cost optimization for AI APIs",
+    "Enterprise workflow automation",
+    "Comprehensive testing strategies"
+  ],
+
+  availableFor: ["Freelance Projects", "AI Integration Consulting", "Next.js Development"]
+};
+```
+
+---
+
+## 🌟 Project Highlights
+
+### AI Document Analyzer
+**Status:** ✅ Live in Production
+**URL:** https://ai-document-analyzer-ea.vercel.app
+**Impact:** 667 tests, 93.6% coverage, $0.45/month API costs
+**Tech:** Next.js 16, TypeScript, Claude API, Tailwind, Vercel
+
+### Hospital HRIS System
+**Status:** ✅ Production
+**Features:** Employee dashboards, biometric attendance, approval workflows
+**Tech:** React, Node.js, Express, MongoDB, Cloud hosting
+
+---
+
+## 📫 Let's Connect
+
+I'm available for:
+- 🤝 **Freelance Projects** — AI integration, Next.js development
+- 💼 **Consulting** — Document processing systems, workflow automation
+- 🎓 **Mentoring** — Full-stack development, AI APIs, testing best practices
+
+**Contact:**
+- 📧 Email: [elmarcera@gmail.com](mailto:elmarcera@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/elmar-angao](https://linkedin.com/in/elmar-angao)
+- 🌐 Live Demo: [ai-document-analyzer-ea.vercel.app](https://ai-document-analyzer-ea.vercel.app)
+
+---
+
+<div align="center">
+
+### ⭐ Featured Repository
+
+[![AI Document Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=eangao&repo=ai-document-analyzer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/eangao/ai-document-analyzer)
+
+---
+
+**💙 Thanks for visiting! If you find my work interesting, feel free to ⭐ star my repositories!**
+
+*Last updated: March 2026*
+
+</div>
