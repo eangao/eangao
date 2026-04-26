@@ -40,8 +40,8 @@ PlainDoc is an AI-powered employment contract analysis tool for Filipino workers
 
 ## 💼 Professional Experience
 
-**Full Stack Developer** @ US-based Legal Tech Company
-*Building AI-powered document processing and workflow automation systems*
+**Full Stack Developer** @ US-based SaaS Company
+*Building AI-powered document processing and workflow automation system*
 
 **Previous:** Hospital HRIS System
 *Production deployment: React + Node.js + MongoDB + Cloud hosting*
