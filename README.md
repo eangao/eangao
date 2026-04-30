@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elmar Angao
 
-### Full Stack Developer | AI Integration Specialist | Next.js
+### Fullstack Developer | AI Integration Specialist | Next.js
 
 Building production-ready AI-powered applications with modern web technologies
 
@@ -40,7 +40,7 @@ PlainDoc is an AI-powered employment contract analysis tool for Filipino workers
 
 ## 💼 Professional Experience
 
-**Full Stack Developer** @ US-based SaaS Company
+**Fullstack Developer** @ US-based SaaS Company
 *Building AI-powered document processing and workflow automation system*
 
 **Previous:** Hospital HRIS System
@@ -122,7 +122,7 @@ PlainDoc is an AI-powered employment contract analysis tool for Filipino workers
 
 ```typescript
 const elmarAngao = {
-  role: "Full Stack Developer",
+  role: "Fullstack Developer",
   specialization: "AI Integration & Document Processing",
 
   expertise: {
@@ -173,7 +173,7 @@ I'm available for:
 
 - 🤝 **Freelance Projects** — AI integration, Next.js development
 - 💼 **Consulting** — Document processing systems, workflow automation
-- 🎓 **Mentoring** — Full-stack development, AI APIs, testing best practices
+- 🎓 **Mentoring** — Fullstack development, AI APIs, testing best practices
 - 🏢 **Senior / Lead Roles** — Open to remote opportunities with UK/EU/US time-zone overlap
 
 **Contact:**
